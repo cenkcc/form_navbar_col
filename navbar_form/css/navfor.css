@@ -1,0 +1,28 @@
+.footer{
+	width:100%;	
+	background-color:#faf8fa;
+	font:15px Arial;
+	position: absolute;
+}
+.row{
+	width:100%;
+	text-align:center;
+	color: black;
+}
+.bodyy {
+	background-color:#faf8fa;	
+}
+.clr {
+	background-color:#ffd3fd;
+}
+.navnav {
+	margin-top:15px;
+	font-size:15pt;
+}
+.resim {
+	width:450;
+	height:400;
+}
+.bg-w {
+	background-color:#faf8fa;
+}
